@@ -1,0 +1,25 @@
+.itemshop{
+    
+    padding: 10px;
+    border: 1px solid black;
+    
+}
+img{
+    width: 50px;
+}
+table{
+    width: 80%;
+    margin: auto;
+    border: 1px solid black;
+   
+    
+}
+th{
+    width: 200px;
+padding: 10px;
+}
+
+td{
+    width: 200px;
+}
+
